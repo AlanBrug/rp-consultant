@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-13T18:56:04.562207",
+  "last_updated": "2026-01-13T18:57:40.753570",
   "licenses": {
     "7D12AB34CD56": {
       "key": "7D12AB34CD56",
@@ -47,6 +47,14 @@
       "days": 9999,
       "expiry": null,
       "created": "2026-01-13T18:55:58.667692",
+      "status": "active"
+    },
+    "3MP99EA6G11D": {
+      "key": "3MP99EA6G11D",
+      "formatted": "3MP9-9EA6-G11D",
+      "days": 90,
+      "expiry": "2026-04-13T18:57:33.756879",
+      "created": "2026-01-13T18:57:33.756907",
       "status": "active"
     }
   }
