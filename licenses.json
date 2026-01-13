@@ -1,0 +1,18 @@
+{
+  "licenses": [
+    {
+      "key": "7D12AB34CD56",
+      "hwid": "any",
+      "expiry": "2024-02-15T00:00:00",
+      "customer": "Иван Иванов",
+      "email": "ivan@example.com"
+    },
+    {
+      "key": "1M34EF56GH78",
+      "hwid": "A1B2C3D4E5F67890",
+      "expiry": "2024-03-15T00:00:00",
+      "customer": "Петр Петров",
+      "email": "petr@example.com"
+    }
+  ]
+}
