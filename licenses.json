@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-13T16:48:45.243926",
+  "last_updated": "2026-01-13T17:50:31.438936",
   "licenses": {
     "7D12AB34CD56": {
       "key": "7D12AB34CD56",
@@ -23,6 +23,14 @@
       "days": 9999,
       "expiry": null,
       "created": "2026-01-13T16:46:03.036330",
+      "status": "active"
+    },
+    "LTRR411ODS58": {
+      "key": "LTRR411ODS58",
+      "formatted": "LTRR-411O-DS58",
+      "days": 9999,
+      "expiry": null,
+      "created": "2026-01-13T17:50:25.886630",
       "status": "active"
     }
   }
