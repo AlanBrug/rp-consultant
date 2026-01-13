@@ -1,18 +1,21 @@
 {
-  "licenses": [
-    {
+  "last_updated": "2024-01-01T00:00:00",
+  "licenses": {
+    "7D12AB34CD56": {
       "key": "7D12AB34CD56",
-      "hwid": "any",
-      "expiry": "2024-02-15T00:00:00",
-      "customer": "Иван Иванов",
-      "email": "ivan@example.com"
+      "formatted": "7D12-AB34-CD56",
+      "days": 7,
+      "expiry": "2024-12-31T23:59:59",
+      "created": "2024-01-01T00:00:00",
+      "status": "active"
     },
-    {
-      "key": "1M34EF56GH78",
-      "hwid": "A1B2C3D4E5F67890",
-      "expiry": "2024-03-15T00:00:00",
-      "customer": "Петр Петров",
-      "email": "petr@example.com"
+    "1MAB12CD34EF": {
+      "key": "1MAB12CD34EF",
+      "formatted": "1MAB-12CD-34EF",
+      "days": 30,
+      "expiry": "2024-12-31T23:59:59",
+      "created": "2024-01-01T00:00:00",
+      "status": "active"
     }
-  ]
+  }
 }
