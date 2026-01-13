@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-13T17:50:31.438936",
+  "last_updated": "2026-01-13T17:56:32.154456",
   "licenses": {
     "7D12AB34CD56": {
       "key": "7D12AB34CD56",
@@ -31,6 +31,14 @@
       "days": 9999,
       "expiry": null,
       "created": "2026-01-13T17:50:25.886630",
+      "status": "active"
+    },
+    "7DXPQDEZZ24D": {
+      "key": "7DXPQDEZZ24D",
+      "formatted": "7DXP-QDEZ-Z24D",
+      "days": 7,
+      "expiry": "2026-01-20T17:56:14.383309",
+      "created": "2026-01-13T17:56:14.383333",
       "status": "active"
     }
   }
