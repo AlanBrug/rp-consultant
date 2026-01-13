@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-13T17:56:32.154456",
+  "last_updated": "2026-01-13T18:56:04.562207",
   "licenses": {
     "7D12AB34CD56": {
       "key": "7D12AB34CD56",
@@ -39,6 +39,14 @@
       "days": 7,
       "expiry": "2026-01-20T17:56:14.383309",
       "created": "2026-01-13T17:56:14.383333",
+      "status": "active"
+    },
+    "LT5FKX9FI4E7": {
+      "key": "LT5FKX9FI4E7",
+      "formatted": "LT5F-KX9F-I4E7",
+      "days": 9999,
+      "expiry": null,
+      "created": "2026-01-13T18:55:58.667692",
       "status": "active"
     }
   }
